@@ -1,1 +1,1 @@
-# rpi-ws281x-matrix
+# rpi-ws218x-matrix
